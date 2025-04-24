@@ -39,16 +39,6 @@
 
 ---
 
-## 🧩 Projects
-
-| 🌐 Project | 💬 Description |
-|-----------|----------------|
-| 🔹 [Vinod Kirana Store Management](https://github.com/komalHub/Vinod-Kirana-Store-Management) | Inventory & order management system for kirana stores using PHP + MySQL. |
-| 🔹 [Periodic Table Project](https://github.com/komalHub/periodic-table-project) | Interactive periodic table built using HTML, CSS, JavaScript. |
-| 🔹 [Sales Data Dashboard (Coming Soon)]() | An interactive Power BI dashboard visualizing store sales trends and customer insights. |
-
----
-
 ## 📚 Currently Learning
 
 🎓 React | MERN Stack | AI Projects | REST APIs | UI/UX Animation  
